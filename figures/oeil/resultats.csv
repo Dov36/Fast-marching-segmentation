@@ -1,0 +1,481 @@
+image;chemin;carte de cout;longueur (pixels);part dans un vaisseau
+01_test;1;gradient (bords);170;0.8353
+01_test;2;gradient (bords);170;0.7176
+01_test;3;gradient (bords);207;0.8309
+01_test;1;intensite (sombre);158;0.8291
+01_test;2;intensite (sombre);161;0.7453
+01_test;3;intensite (sombre);113;0.1947
+01_test;1;contraste local, a = 30;171;0.8772
+01_test;2;contraste local, a = 30;177;1.0
+01_test;3;contraste local, a = 30;226;0.8805
+01_test;1;contraste local, a = 100;254;1.0
+01_test;2;contraste local, a = 100;186;1.0
+01_test;3;contraste local, a = 100;397;1.0
+02_test;1;gradient (bords);185;0.9405
+02_test;2;gradient (bords);181;0.8122
+02_test;3;gradient (bords);209;0.9569
+02_test;1;intensite (sombre);121;0.1653
+02_test;2;intensite (sombre);147;0.3333
+02_test;3;intensite (sombre);176;0.5284
+02_test;1;contraste local, a = 30;216;1.0
+02_test;2;contraste local, a = 30;262;0.9924
+02_test;3;contraste local, a = 30;211;1.0
+02_test;1;contraste local, a = 100;216;1.0
+02_test;2;contraste local, a = 100;228;1.0
+02_test;3;contraste local, a = 100;229;1.0
+03_test;1;gradient (bords);100;0.98
+03_test;2;gradient (bords);95;0.9158
+03_test;3;gradient (bords);197;1.0
+03_test;1;intensite (sombre);110;0.1
+03_test;2;intensite (sombre);71;0.831
+03_test;3;intensite (sombre);196;0.9694
+03_test;1;contraste local, a = 30;102;1.0
+03_test;2;contraste local, a = 30;126;1.0
+03_test;3;contraste local, a = 30;200;1.0
+03_test;1;contraste local, a = 100;102;1.0
+03_test;2;contraste local, a = 100;127;1.0
+03_test;3;contraste local, a = 100;200;1.0
+04_test;1;gradient (bords);114;0.886
+04_test;2;gradient (bords);111;0.991
+04_test;3;gradient (bords);82;0.9756
+04_test;1;intensite (sombre);107;0.9439
+04_test;2;intensite (sombre);113;0.9381
+04_test;3;intensite (sombre);73;1.0
+04_test;1;contraste local, a = 30;113;1.0
+04_test;2;contraste local, a = 30;113;1.0
+04_test;3;contraste local, a = 30;75;1.0
+04_test;1;contraste local, a = 100;113;1.0
+04_test;2;contraste local, a = 100;108;1.0
+04_test;3;contraste local, a = 100;75;1.0
+05_test;1;gradient (bords);147;0.9728
+05_test;2;gradient (bords);86;0.9419
+05_test;3;gradient (bords);142;0.9507
+05_test;1;intensite (sombre);240;0.2083
+05_test;2;intensite (sombre);85;0.9882
+05_test;3;intensite (sombre);93;0.5269
+05_test;1;contraste local, a = 30;146;1.0
+05_test;2;contraste local, a = 30;85;1.0
+05_test;3;contraste local, a = 30;146;0.9863
+05_test;1;contraste local, a = 100;146;1.0
+05_test;2;contraste local, a = 100;85;1.0
+05_test;3;contraste local, a = 100;145;1.0
+06_test;1;gradient (bords);81;0.9383
+06_test;2;gradient (bords);257;0.1167
+06_test;3;gradient (bords);137;1.0
+06_test;1;intensite (sombre);70;0.4714
+06_test;2;intensite (sombre);207;0.1546
+06_test;3;intensite (sombre);137;0.9927
+06_test;1;contraste local, a = 30;82;0.939
+06_test;2;contraste local, a = 30;197;1.0
+06_test;3;contraste local, a = 30;137;1.0
+06_test;1;contraste local, a = 100;138;1.0
+06_test;2;contraste local, a = 100;199;1.0
+06_test;3;contraste local, a = 100;137;1.0
+07_test;1;gradient (bords);188;0.8564
+07_test;2;gradient (bords);177;0.565
+07_test;3;gradient (bords);78;1.0
+07_test;1;intensite (sombre);130;0.6846
+07_test;2;intensite (sombre);159;0.1447
+07_test;3;intensite (sombre);76;1.0
+07_test;1;contraste local, a = 30;235;0.9957
+07_test;2;contraste local, a = 30;386;0.9948
+07_test;3;contraste local, a = 30;76;1.0
+07_test;1;contraste local, a = 100;237;1.0
+07_test;2;contraste local, a = 100;387;0.9948
+07_test;3;contraste local, a = 100;76;1.0
+08_test;1;gradient (bords);103;0.9709
+08_test;2;gradient (bords);162;0.9691
+08_test;3;gradient (bords);104;0.8077
+08_test;1;intensite (sombre);99;0.9798
+08_test;2;intensite (sombre);150;0.8067
+08_test;3;intensite (sombre);94;0.8404
+08_test;1;contraste local, a = 30;99;0.9899
+08_test;2;contraste local, a = 30;159;1.0
+08_test;3;contraste local, a = 30;103;0.9126
+08_test;1;contraste local, a = 100;100;1.0
+08_test;2;contraste local, a = 100;159;1.0
+08_test;3;contraste local, a = 100;114;1.0
+09_test;1;gradient (bords);143;0.8951
+09_test;2;gradient (bords);132;0.9848
+09_test;3;gradient (bords);213;0.7934
+09_test;1;intensite (sombre);131;0.4275
+09_test;2;intensite (sombre);124;0.9113
+09_test;3;intensite (sombre);160;0.2562
+09_test;1;contraste local, a = 30;146;1.0
+09_test;2;contraste local, a = 30;134;0.9851
+09_test;3;contraste local, a = 30;279;0.9785
+09_test;1;contraste local, a = 100;146;1.0
+09_test;2;contraste local, a = 100;136;0.9926
+09_test;3;contraste local, a = 100;299;0.9933
+10_test;1;gradient (bords);191;0.8848
+10_test;2;gradient (bords);183;0.9399
+10_test;3;gradient (bords);130;0.9154
+10_test;1;intensite (sombre);181;0.4972
+10_test;2;intensite (sombre);131;0.5496
+10_test;3;intensite (sombre);128;0.9531
+10_test;1;contraste local, a = 30;192;0.9792
+10_test;2;contraste local, a = 30;190;1.0
+10_test;3;contraste local, a = 30;131;1.0
+10_test;1;contraste local, a = 100;258;1.0
+10_test;2;contraste local, a = 100;190;1.0
+10_test;3;contraste local, a = 100;132;1.0
+11_test;1;gradient (bords);244;0.9303
+11_test;2;gradient (bords);168;0.9583
+11_test;3;gradient (bords);106;0.9906
+11_test;1;intensite (sombre);130;0.1692
+11_test;2;intensite (sombre);283;0.1731
+11_test;3;intensite (sombre);103;0.7282
+11_test;1;contraste local, a = 30;254;1.0
+11_test;2;contraste local, a = 30;168;1.0
+11_test;3;contraste local, a = 30;115;1.0
+11_test;1;contraste local, a = 100;254;1.0
+11_test;2;contraste local, a = 100;196;1.0
+11_test;3;contraste local, a = 100;115;1.0
+12_test;1;gradient (bords);160;0.9438
+12_test;2;gradient (bords);177;0.8814
+12_test;3;gradient (bords);253;0.5534
+12_test;1;intensite (sombre);135;0.3111
+12_test;2;intensite (sombre);141;0.4539
+12_test;3;intensite (sombre);325;0.2215
+12_test;1;contraste local, a = 30;165;0.9879
+12_test;2;contraste local, a = 30;185;1.0
+12_test;3;contraste local, a = 30;212;0.9906
+12_test;1;contraste local, a = 100;165;0.9879
+12_test;2;contraste local, a = 100;185;1.0
+12_test;3;contraste local, a = 100;212;0.9906
+13_test;1;gradient (bords);103;0.9612
+13_test;2;gradient (bords);126;0.8095
+13_test;3;gradient (bords);113;0.9558
+13_test;1;intensite (sombre);103;1.0
+13_test;2;intensite (sombre);118;0.8729
+13_test;3;intensite (sombre);107;0.972
+13_test;1;contraste local, a = 30;103;1.0
+13_test;2;contraste local, a = 30;123;1.0
+13_test;3;contraste local, a = 30;116;1.0
+13_test;1;contraste local, a = 100;103;1.0
+13_test;2;contraste local, a = 100;123;1.0
+13_test;3;contraste local, a = 100;117;1.0
+14_test;1;gradient (bords);94;0.9149
+14_test;2;gradient (bords);164;0.8171
+14_test;3;gradient (bords);222;0.6441
+14_test;1;intensite (sombre);92;0.7065
+14_test;2;intensite (sombre);164;0.7073
+14_test;3;intensite (sombre);161;0.3602
+14_test;1;contraste local, a = 30;93;1.0
+14_test;2;contraste local, a = 30;167;1.0
+14_test;3;contraste local, a = 30;333;1.0
+14_test;1;contraste local, a = 100;93;1.0
+14_test;2;contraste local, a = 100;167;1.0
+14_test;3;contraste local, a = 100;337;1.0
+15_test;1;gradient (bords);186;0.9516
+15_test;2;gradient (bords);175;0.9086
+15_test;3;gradient (bords);102;1.0
+15_test;1;intensite (sombre);445;0.4517
+15_test;2;intensite (sombre);169;0.8284
+15_test;3;intensite (sombre);102;0.9412
+15_test;1;contraste local, a = 30;239;1.0
+15_test;2;contraste local, a = 30;180;1.0
+15_test;3;contraste local, a = 30;102;1.0
+15_test;1;contraste local, a = 100;239;1.0
+15_test;2;contraste local, a = 100;180;1.0
+15_test;3;contraste local, a = 100;102;1.0
+16_test;1;gradient (bords);125;1.0
+16_test;2;gradient (bords);149;0.9396
+16_test;3;gradient (bords);143;0.9371
+16_test;1;intensite (sombre);120;1.0
+16_test;2;intensite (sombre);120;0.55
+16_test;3;intensite (sombre);140;0.9929
+16_test;1;contraste local, a = 30;122;1.0
+16_test;2;contraste local, a = 30;177;1.0
+16_test;3;contraste local, a = 30;140;1.0
+16_test;1;contraste local, a = 100;122;1.0
+16_test;2;contraste local, a = 100;177;1.0
+16_test;3;contraste local, a = 100;140;1.0
+17_test;1;gradient (bords);129;0.8217
+17_test;2;gradient (bords);114;0.4912
+17_test;3;gradient (bords);247;0.9717
+17_test;1;intensite (sombre);129;0.7752
+17_test;2;intensite (sombre);114;0.5439
+17_test;3;intensite (sombre);155;0.2839
+17_test;1;contraste local, a = 30;129;1.0
+17_test;2;contraste local, a = 30;131;0.9924
+17_test;3;contraste local, a = 30;248;1.0
+17_test;1;contraste local, a = 100;129;1.0
+17_test;2;contraste local, a = 100;131;0.9924
+17_test;3;contraste local, a = 100;250;1.0
+18_test;1;gradient (bords);99;0.9192
+18_test;2;gradient (bords);154;0.7857
+18_test;3;gradient (bords);244;0.5738
+18_test;1;intensite (sombre);98;0.9796
+18_test;2;intensite (sombre);154;0.7273
+18_test;3;intensite (sombre);165;0.5939
+18_test;1;contraste local, a = 30;111;1.0
+18_test;2;contraste local, a = 30;155;0.9548
+18_test;3;contraste local, a = 30;248;0.996
+18_test;1;contraste local, a = 100;112;1.0
+18_test;2;contraste local, a = 100;248;0.996
+18_test;3;contraste local, a = 100;248;0.996
+19_test;1;gradient (bords);151;0.8212
+19_test;2;gradient (bords);165;0.697
+19_test;3;gradient (bords);130;0.9154
+19_test;1;intensite (sombre);109;0.2477
+19_test;2;intensite (sombre);160;1.0
+19_test;3;intensite (sombre);118;0.7881
+19_test;1;contraste local, a = 30;155;0.9226
+19_test;2;contraste local, a = 30;163;1.0
+19_test;3;contraste local, a = 30;120;1.0
+19_test;1;contraste local, a = 100;271;1.0
+19_test;2;contraste local, a = 100;173;0.7688
+19_test;3;contraste local, a = 100;120;1.0
+20_test;1;gradient (bords);103;0.9126
+20_test;2;gradient (bords);148;0.9662
+20_test;3;gradient (bords);175;0.8514
+20_test;1;intensite (sombre);66;0.3333
+20_test;2;intensite (sombre);123;0.7967
+20_test;3;intensite (sombre);173;0.8497
+20_test;1;contraste local, a = 30;122;1.0
+20_test;2;contraste local, a = 30;155;1.0
+20_test;3;contraste local, a = 30;173;1.0
+20_test;1;contraste local, a = 100;122;1.0
+20_test;2;contraste local, a = 100;154;1.0
+20_test;3;contraste local, a = 100;173;1.0
+21_training;1;gradient (bords);259;0.2317
+21_training;2;gradient (bords);224;0.2768
+21_training;3;gradient (bords);155;0.9161
+21_training;1;intensite (sombre);217;0.129
+21_training;2;intensite (sombre);155;0.6387
+21_training;3;intensite (sombre);144;0.7986
+21_training;1;contraste local, a = 30;261;0.2069
+21_training;2;contraste local, a = 30;155;1.0
+21_training;3;contraste local, a = 30;164;1.0
+21_training;1;contraste local, a = 100;178;1.0
+21_training;2;contraste local, a = 100;155;1.0
+21_training;3;contraste local, a = 100;164;1.0
+22_training;1;gradient (bords);156;0.9744
+22_training;2;gradient (bords);210;0.819
+22_training;3;gradient (bords);129;1.0
+22_training;1;intensite (sombre);127;0.685
+22_training;2;intensite (sombre);171;0.4737
+22_training;3;intensite (sombre);120;0.7833
+22_training;1;contraste local, a = 30;163;1.0
+22_training;2;contraste local, a = 30;215;0.8651
+22_training;3;contraste local, a = 30;132;1.0
+22_training;1;contraste local, a = 100;164;1.0
+22_training;2;contraste local, a = 100;221;0.8959
+22_training;3;contraste local, a = 100;132;1.0
+23_training;1;gradient (bords);95;0.9474
+23_training;2;gradient (bords);207;0.9227
+23_training;3;gradient (bords);106;0.1698
+23_training;1;intensite (sombre);95;0.7474
+23_training;2;intensite (sombre);145;0.1793
+23_training;3;intensite (sombre);106;0.0943
+23_training;1;contraste local, a = 30;95;1.0
+23_training;2;contraste local, a = 30;189;1.0
+23_training;3;contraste local, a = 30;106;0.1792
+23_training;1;contraste local, a = 100;95;1.0
+23_training;2;contraste local, a = 100;189;1.0
+23_training;3;contraste local, a = 100;316;1.0
+24_training;1;gradient (bords);103;0.9806
+24_training;2;gradient (bords);142;1.0
+24_training;3;gradient (bords);103;0.9903
+24_training;1;intensite (sombre);99;0.9697
+24_training;2;intensite (sombre);142;0.7817
+24_training;3;intensite (sombre);102;0.9902
+24_training;1;contraste local, a = 30;105;1.0
+24_training;2;contraste local, a = 30;145;1.0
+24_training;3;contraste local, a = 30;102;1.0
+24_training;1;contraste local, a = 100;105;1.0
+24_training;2;contraste local, a = 100;145;1.0
+24_training;3;contraste local, a = 100;102;1.0
+25_training;1;gradient (bords);101;0.9406
+25_training;2;gradient (bords);160;0.7938
+25_training;3;gradient (bords);185;0.8595
+25_training;1;intensite (sombre);99;0.8182
+25_training;2;intensite (sombre);138;0.6884
+25_training;3;intensite (sombre);130;0.3615
+25_training;1;contraste local, a = 30;104;1.0
+25_training;2;contraste local, a = 30;231;1.0
+25_training;3;contraste local, a = 30;209;0.9426
+25_training;1;contraste local, a = 100;105;1.0
+25_training;2;contraste local, a = 100;232;1.0
+25_training;3;contraste local, a = 100;221;0.9593
+26_training;1;gradient (bords);162;0.8086
+26_training;2;gradient (bords);164;1.0
+26_training;3;gradient (bords);102;0.8627
+26_training;1;intensite (sombre);134;0.403
+26_training;2;intensite (sombre);160;0.9812
+26_training;3;intensite (sombre);78;0.7051
+26_training;1;contraste local, a = 30;185;1.0
+26_training;2;contraste local, a = 30;162;1.0
+26_training;3;contraste local, a = 30;136;1.0
+26_training;1;contraste local, a = 100;185;1.0
+26_training;2;contraste local, a = 100;162;1.0
+26_training;3;contraste local, a = 100;136;1.0
+27_training;1;gradient (bords);170;0.6824
+27_training;2;gradient (bords);81;1.0
+27_training;3;gradient (bords);125;0.84
+27_training;1;intensite (sombre);162;0.4568
+27_training;2;intensite (sombre);79;0.9873
+27_training;3;intensite (sombre);114;0.6667
+27_training;1;contraste local, a = 30;172;0.8953
+27_training;2;contraste local, a = 30;83;1.0
+27_training;3;contraste local, a = 30;347;0.5591
+27_training;1;contraste local, a = 100;181;0.8564
+27_training;2;contraste local, a = 100;83;1.0
+27_training;3;contraste local, a = 100;347;0.5648
+28_training;1;gradient (bords);363;0.9174
+28_training;2;gradient (bords);101;0.8218
+28_training;3;gradient (bords);147;1.0
+28_training;1;intensite (sombre);156;0.359
+28_training;2;intensite (sombre);97;0.4124
+28_training;3;intensite (sombre);167;0.2216
+28_training;1;contraste local, a = 30;369;1.0
+28_training;2;contraste local, a = 30;109;0.9817
+28_training;3;contraste local, a = 30;147;1.0
+28_training;1;contraste local, a = 100;369;1.0
+28_training;2;contraste local, a = 100;110;0.9818
+28_training;3;contraste local, a = 100;148;1.0
+29_training;1;gradient (bords);201;0.9502
+29_training;2;gradient (bords);150;1.0
+29_training;3;gradient (bords);88;0.9318
+29_training;1;intensite (sombre);197;1.0
+29_training;2;intensite (sombre);148;0.9932
+29_training;3;intensite (sombre);86;0.6395
+29_training;1;contraste local, a = 30;200;1.0
+29_training;2;contraste local, a = 30;152;1.0
+29_training;3;contraste local, a = 30;86;0.9651
+29_training;1;contraste local, a = 100;200;1.0
+29_training;2;contraste local, a = 100;152;1.0
+29_training;3;contraste local, a = 100;86;0.9767
+30_training;1;gradient (bords);110;0.7091
+30_training;2;gradient (bords);183;0.1475
+30_training;3;gradient (bords);106;0.934
+30_training;1;intensite (sombre);104;0.5096
+30_training;2;intensite (sombre);200;0.13
+30_training;3;intensite (sombre);105;1.0
+30_training;1;contraste local, a = 30;148;1.0
+30_training;2;contraste local, a = 30;194;1.0
+30_training;3;contraste local, a = 30;105;1.0
+30_training;1;contraste local, a = 100;181;1.0
+30_training;2;contraste local, a = 100;194;1.0
+30_training;3;contraste local, a = 100;105;1.0
+31_training;1;gradient (bords);214;0.9953
+31_training;2;gradient (bords);173;0.896
+31_training;3;gradient (bords);74;0.8919
+31_training;1;intensite (sombre);108;0.1852
+31_training;2;intensite (sombre);150;0.1933
+31_training;3;intensite (sombre);71;0.7887
+31_training;1;contraste local, a = 30;212;1.0
+31_training;2;contraste local, a = 30;176;1.0
+31_training;3;contraste local, a = 30;72;1.0
+31_training;1;contraste local, a = 100;212;1.0
+31_training;2;contraste local, a = 100;176;1.0
+31_training;3;contraste local, a = 100;72;1.0
+32_training;1;gradient (bords);116;0.9138
+32_training;2;gradient (bords);148;0.9392
+32_training;3;gradient (bords);136;0.8897
+32_training;1;intensite (sombre);115;0.9391
+32_training;2;intensite (sombre);100;0.41
+32_training;3;intensite (sombre);110;0.5818
+32_training;1;contraste local, a = 30;115;0.9913
+32_training;2;contraste local, a = 30;153;1.0
+32_training;3;contraste local, a = 30;138;1.0
+32_training;1;contraste local, a = 100;117;0.9915
+32_training;2;contraste local, a = 100;153;1.0
+32_training;3;contraste local, a = 100;138;1.0
+33_training;1;gradient (bords);100;0.92
+33_training;2;gradient (bords);251;0.251
+33_training;3;gradient (bords);156;0.7051
+33_training;1;intensite (sombre);94;0.7553
+33_training;2;intensite (sombre);242;0.2149
+33_training;3;intensite (sombre);138;0.3406
+33_training;1;contraste local, a = 30;113;1.0
+33_training;2;contraste local, a = 30;213;0.9953
+33_training;3;contraste local, a = 30;166;0.994
+33_training;1;contraste local, a = 100;113;1.0
+33_training;2;contraste local, a = 100;219;1.0
+33_training;3;contraste local, a = 100;172;1.0
+34_training;1;gradient (bords);92;0.9891
+34_training;2;gradient (bords);125;0.96
+34_training;3;gradient (bords);174;0.9483
+34_training;1;intensite (sombre);88;0.9886
+34_training;2;intensite (sombre);105;0.2667
+34_training;3;intensite (sombre);182;0.9286
+34_training;1;contraste local, a = 30;88;0.9886
+34_training;2;contraste local, a = 30;128;1.0
+34_training;3;contraste local, a = 30;177;0.9944
+34_training;1;contraste local, a = 100;88;0.9886
+34_training;2;contraste local, a = 100;142;0.8732
+34_training;3;contraste local, a = 100;177;0.9944
+35_training;1;gradient (bords);142;0.9225
+35_training;2;gradient (bords);111;1.0
+35_training;3;gradient (bords);152;0.6776
+35_training;1;intensite (sombre);116;0.5776
+35_training;2;intensite (sombre);104;0.9423
+35_training;3;intensite (sombre);113;0.3451
+35_training;1;contraste local, a = 30;156;1.0
+35_training;2;contraste local, a = 30;109;1.0
+35_training;3;contraste local, a = 30;188;0.8457
+35_training;1;contraste local, a = 100;156;1.0
+35_training;2;contraste local, a = 100;109;1.0
+35_training;3;contraste local, a = 100;251;0.996
+36_training;1;gradient (bords);200;0.56
+36_training;2;gradient (bords);127;0.9921
+36_training;3;gradient (bords);206;0.9078
+36_training;1;intensite (sombre);173;0.289
+36_training;2;intensite (sombre);127;1.0
+36_training;3;intensite (sombre);201;0.9204
+36_training;1;contraste local, a = 30;367;1.0
+36_training;2;contraste local, a = 30;127;1.0
+36_training;3;contraste local, a = 30;211;1.0
+36_training;1;contraste local, a = 100;359;1.0
+36_training;2;contraste local, a = 100;127;1.0
+36_training;3;contraste local, a = 100;248;1.0
+37_training;1;gradient (bords);154;1.0
+37_training;2;gradient (bords);89;0.9775
+37_training;3;gradient (bords);153;0.9412
+37_training;1;intensite (sombre);183;0.8798
+37_training;2;intensite (sombre);84;1.0
+37_training;3;intensite (sombre);152;1.0
+37_training;1;contraste local, a = 30;192;1.0
+37_training;2;contraste local, a = 30;102;1.0
+37_training;3;contraste local, a = 30;152;1.0
+37_training;1;contraste local, a = 100;192;1.0
+37_training;2;contraste local, a = 100;102;1.0
+37_training;3;contraste local, a = 100;152;1.0
+38_training;1;gradient (bords);97;0.9588
+38_training;2;gradient (bords);155;0.9613
+38_training;3;gradient (bords);108;1.0
+38_training;1;intensite (sombre);88;0.7841
+38_training;2;intensite (sombre);148;0.9392
+38_training;3;intensite (sombre);107;0.9907
+38_training;1;contraste local, a = 30;97;1.0
+38_training;2;contraste local, a = 30;153;1.0
+38_training;3;contraste local, a = 30;107;1.0
+38_training;1;contraste local, a = 100;97;1.0
+38_training;2;contraste local, a = 100;154;1.0
+38_training;3;contraste local, a = 100;108;1.0
+39_training;1;gradient (bords);229;0.8559
+39_training;2;gradient (bords);124;0.6694
+39_training;3;gradient (bords);109;0.9358
+39_training;1;intensite (sombre);155;0.2516
+39_training;2;intensite (sombre);96;0.375
+39_training;3;intensite (sombre);177;0.1469
+39_training;1;contraste local, a = 30;238;0.958
+39_training;2;contraste local, a = 30;147;0.932
+39_training;3;contraste local, a = 30;112;1.0
+39_training;1;contraste local, a = 100;238;0.958
+39_training;2;contraste local, a = 100;147;0.932
+39_training;3;contraste local, a = 100;112;1.0
+40_training;1;gradient (bords);162;0.4444
+40_training;2;gradient (bords);141;0.9645
+40_training;3;gradient (bords);145;0.9586
+40_training;1;intensite (sombre);162;0.4136
+40_training;2;intensite (sombre);141;0.922
+40_training;3;intensite (sombre);145;0.9241
+40_training;1;contraste local, a = 30;337;1.0
+40_training;2;contraste local, a = 30;142;1.0
+40_training;3;contraste local, a = 30;145;1.0
+40_training;1;contraste local, a = 100;337;1.0
+40_training;2;contraste local, a = 100;142;1.0
+40_training;3;contraste local, a = 100;145;1.0

@@ -1,0 +1,13 @@
+Base DRIVE (Digital Retinal Images for Vessel Extraction) - 40 images du fond de l'oeil.
+
+    images/  NN_training.tif (21 a 40) et NN_test.tif (01 a 20) : photos en couleur, 565 x 584
+    manual/  NN_manual1.gif : vaisseaux traces a la main par un expert (blanc = vaisseau)
+    mask/    NN_mask.gif    : zone utile de l'image (le disque de la retine)
+
+Site officiel : https://drive.grand-challenge.org/
+Copie utilisee : https://github.com/sraashis/deepdyn (dossier data/DRIVE)
+
+A citer dans le rapport :
+J. Staal, M. D. Abramoff, M. Niemeijer, M. A. Viergever, B. van Ginneken,
+"Ridge-based vessel segmentation in color images of the retina",
+IEEE Transactions on Medical Imaging, 23(4), 501-509, 2004.
